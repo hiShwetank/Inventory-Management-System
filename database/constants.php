@@ -2,10 +2,10 @@
 session_start();
 
 define("HOST","localhost");
-define("USER","root");
-define("PASS","");
-define("DB","invoice");
+define("USER","u704466700_anurag_invoice");
+define("PASS","PA$$w0rd2326");
+define("DB","u704466700_anurag_invoice");
 
-define("DOMAIN","http://localhost/Bill/inventory-management-system-master");
+define("DOMAIN","https://anurag.tarindia.com/");
 
 ?>
