@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	var DOMAIN = "https://anurag.tarindia.com/Bill/inventory-management-system-master";
+	var DOMAIN = "http://localhost/Bill/inventory-management-system-master";
 	$("#register_form").on("submit",function(){
 		var status = false;
 		var name = $("#username");

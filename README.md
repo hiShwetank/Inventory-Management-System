@@ -7,10 +7,10 @@ It is a simple project that monitors the stock quantity. This system has a pleas
 ## How to Run This Project
 - Extract the File
 - Copy the extracted folder to XAMPP's "htdocs" directory. (C:\xampp\htdocs)
-- Open a web browser and browse the PHPMyAdmin. (https://anurag.tarindia.com/phpmyadmin)
+- Open a web browser and browse the PHPMyAdmin. (http://localhost/phpmyadmin)
 - Create a new database naming "invoice".
 - Import the SQL file. The SQL file is known as "invoice.sql" and this is located at the "database" directory of the extracted folder.
-- Open a web browser and browse the web application. (https://anurag.tarindia.com/inventory-management-system)
+- Open a web browser and browse the web application. (http://localhost/inventory-management-system)
 
 ### Sample Access
 - Username: admin@gmail.com
