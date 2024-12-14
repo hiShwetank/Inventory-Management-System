@@ -166,7 +166,7 @@ $objWriter->save('helloWorld.html');
 /* Note: we skip PDF, because "HTML-to-PDF" approach is used to create PDF documents. */
 ```
 
-More examples are provided in the [samples folder](samples/). For an easy access to those samples launch `php -S localhost:8000` in the samples directory then browse to [http://localhost:8000](http://localhost:8000) to view the samples.
+More examples are provided in the [samples folder](samples/). For an easy access to those samples launch `php -S localhost:8000` in the samples directory then browse to [https://anurag.tarindia.com:8000](https://anurag.tarindia.com:8000) to view the samples.
 You can also read the [Developers' Documentation](http://phpword.readthedocs.org/) for more detail.
 
 ## Contributing
